@@ -14,3 +14,4 @@ export const incrementCount = createReducer(initialSate.simpleScreen, {
         return newState;
     }
 });
+\
